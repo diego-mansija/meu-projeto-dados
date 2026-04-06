@@ -26,4 +26,4 @@ Este projeto faz parte do meu portfólio de Ciência de Dados e Desenvolvimento 
 ## Como executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-projeto.git](https://github.com/seu-usuario/nome-do-projeto.git)
+   git clone [https://github.com/diego-mansija/meu-projeto-dados.git](https://github.com/diego-mansija/meu-projeto-dados.git)
