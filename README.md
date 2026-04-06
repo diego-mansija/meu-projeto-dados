@@ -25,5 +25,18 @@ Este projeto faz parte do meu portfólio de Ciência de Dados e Desenvolvimento 
 
 ## Como executar
 1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/diego-mansija/meu-projeto-dados.git](https://github.com/diego-mansija/meu-projeto-dados.git)
+    git clone [https://github.com/diego-mansija/meu-projeto-dados.git](https://github.com/diego-mansija/meu-projeto-dados.git)
+
+2. Crie e ative o ambiente virtual:
+        python3 -m venv .venv
+        source .venv/bin/activate
+    
+3. Atualize o pip e as bibliotecas dentro do ambiente ativado, se necessário (pode evitar erros ao criar, editar e/ou instalar as dependências a partir do 'requirements.txt':
+        python -m pip install --upgrade pip
+        python -m pip install numpy pandas matplotlib
+
+4. Instale as dependências:
+        pip install -r requirements.txt
+
+5. Execute o script principal:
+        python main.py

@@ -1,4 +1,6 @@
-#!/home/diego/meu-projeto-dados/.venv/bin/python3
+#!/bin/sh
+'''exec' "/media/diego/Novo volume/Python/meu-projeto-dados/.venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
