@@ -39,4 +39,4 @@ Este projeto faz parte do meu portfólio de Ciência de Dados e Desenvolvimento 
         pip install -r requirements.txt
 
 5. Execute o script principal:
-        python main.py
+        python analise.py
