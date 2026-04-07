@@ -50,5 +50,5 @@ meu-projeto-dados/
         python analise.py
 
 ### Principais Insights
-![Faturamento por Categoria](../output/faturamento_por_categoria.png)
-![Tendência de Faturamento Mensal](../output/tendencia_de_faturamento.png)
+![Faturamento por Categoria](output/faturamento_por_categoria.png)
+![Tendência de Faturamento Mensal](output/tendencia_de_faturamento.png)
