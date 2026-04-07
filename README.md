@@ -1,6 +1,7 @@
 Analisando Tendências de Tecnologia com Python
 
 Este repositório apresenta um projeto de análise de dados focado no comportamento de vendas de uma operação de varejo fictícia. O desenvolvimento prioriza a modularização do código, a automação de saídas gráficas e a organização de diretórios seguindo padrões de mercado.
+
 1. Objetivo
 
 O projeto visa extrair insights sobre o faturamento bruto e volume de transações para identificar produtos de maior rentabilidade e sazonalidade de vendas, auxiliando na tomada de decisão estratégica.
