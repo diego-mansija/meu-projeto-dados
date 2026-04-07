@@ -49,24 +49,24 @@ Bash
 
 Clone o repositório
 
-git clone https://github.com/diego-mansija/meu-projeto-dados.git
+        git clone https://github.com/diego-mansija/meu-projeto-dados.git
 
 Criação e ativação do ambiente virtual
 
-python3 -m venv .venv
-source .venv/bin/activate
+        python3 -m venv .venv
+        source .venv/bin/activate
 
 Atualização do gerenciador de pacotes e instalação das dependências
 
-python -m pip install --upgrade pip
-pip install -r requirements.txt
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
 5.2 Execução das Análises
 
 Para executar o processamento e gerar os gráficos na pasta output, utilize o script disponível em src/:
 
-cd src
-python3 analise.py
+        cd src
+        python3 analise.py
 
 Alternativamente, o projeto pode ser explorado de forma interativa através do VS Code abrindo o arquivo src/analise.ipynb.
 
@@ -74,8 +74,8 @@ Alternativamente, o projeto pode ser explorado de forma interativa através do V
 
 Abaixo, as visualizações geradas pelo projeto demonstram o desempenho das categorias e a evolução do faturamento ao longo do período analisado.
 
-6.1 Faturamento por Categoria
+        6.1 Faturamento por Categoria
 ![Faturamento por Categoria](output/faturamento_por_categoria.png)
 
-6.2 Tendência de Faturamento Mensal
+        6.2 Tendência de Faturamento Mensal
 ![Tendência de Faturamento Mensal](output/tendencia_de_faturamento.png)
