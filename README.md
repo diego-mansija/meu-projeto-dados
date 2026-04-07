@@ -48,3 +48,7 @@ meu-projeto-dados/
 
 5. Execute o script principal:
         python analise.py
+
+### Principais Insights
+![Faturamento por Categoria](faturamento_por_categoria.png)
+![Tendência de Faturamento Mensal](tendencia_de_faturamento.png)
